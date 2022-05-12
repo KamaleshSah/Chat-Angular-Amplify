@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chattyangular-dev-181804-authRole",
+      "UnauthRoleArn": "arn:aws:iam::654371545578:role/amplify-chattyangular-dev-181804-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::654371545578:role/amplify-chattyangular-dev-181804-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-chattyangular-dev-181804-deployment",
+      "UnauthRoleName": "amplify-chattyangular-dev-181804-unauthRole",
+      "StackName": "amplify-chattyangular-dev-181804",
+      "StackId": "arn:aws:cloudformation:us-west-2:654371545578:stack/amplify-chattyangular-dev-181804/466f8340-cf96-11ec-b32f-0af5af83b707",
+      "AmplifyAppId": "d3iy5j10dos7fp"
+    },
+    "categories": {
+      "auth": {
+        "chattyangular805626e7": {}
+      }
+    }
+  }
+}
