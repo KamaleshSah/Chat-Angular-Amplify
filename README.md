@@ -1,5 +1,5 @@
-# Chattyangular
-
+# Chat Angular AWS Amplify
+# Demo link:  http://syncreproduce-20220510182026-hostingbucket-dev.s3-website-us-west-2.amazonaws.com/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
 ## Development server
